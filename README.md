@@ -1,2 +1,2 @@
-# Student-Managment-System
-This is a simple student management system using php and sql
+# Student-Management-System
+This is a simple student management system using PHP and SQL and Bootstrap
